@@ -14,14 +14,13 @@ Professionally, I started my career at an aerospace company where I used NLP and
 
 I took a change in 2017 and came to work for a consumer focused company with no machine learning bent, Wealthsimple! I spent my first year as 1/2 of the USA Engineering team, which was merged into the International Platform team. I was promoted to be the dev manager of the International Product team last year, and now I am the dev manager for W4A Product. 
 
-Outside of tech jobs I spent some years working as a Research Assistant, Teaching Assistant and as a Taekwondo instructor! 🦵 
+Outside of tech jobs I spent some years working as a Research Assistant, Teaching Assistant and a Taekwondo 🦵 instructor! 
 
 ## My Role
 
 **To Wealthsimple/ My Manager**
 
-As a dev manager, I am assessed on the combined output of the team. My primary responsbility is setting the project schedule, and helping with development where I can. I need to make commitments on projects to leadership/ my manager and follow through on those commitments, as well as communicate with them so they have a comfortable understanding of the teams' work. I bear ultimate responsibility for us delivering high quality work. 
-
+As a dev manager, I am assessed on the combined output of the team, as well as the morale of the team. My primary responsibility is setting the development schedule and following through on those commitments. I'm also responsible for setting and improving our processes, communicating the right info at the right time to leadership and external stake holders, and leveling up the team. I bear ultimate responsibility for the quality of work we output. 
 
 **To you**
 
