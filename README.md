@@ -1,20 +1,19 @@
-## Who Am I?
+## 👋 Hey, I'm Sean
 
-Outside of work, I am a person who is passionate about food, travel, and relaxing with friends. I am getting married in June 2019 and that takes up most of my time! I have a wonderful and energetic dog named Rio who demands much of my evening attention. I spend my free time with cooking, video games (currently Rainbox 6: Siege), rec sports leagues (flag football, soccer, baseball) and reading. 
+Outside of work, I am a person who is passionate about food, travel, and relaxing with friends. I am expecting my first child in Nov 2020, and that's mostly what I'm thinking about nowadays! I have a wonderful and energetic dog named Rio who demands much of my evening attention. I spend my free time with cooking, video games (currently Valorant), rec sports leagues (flag football, soccer, softball) and reading. 
 
-My goals for 2019 are:
-
-- Have a minimally stressfuly and fun wedding
-- Start going to the gym or fitness classes regularly
-- Learn basic conversational Mandarin
+My goals for 2020 are:
+- Read more books! 📚
+- Settle in and furnish my first home 🏡
+- Get better at cooking with a wok 🥘
 
 I graduated from the University of Toronto with a specialist in Computer Science and a major in Cognitive Science. I put most of my my focus into Natural Language Programming / Computational Linguistics. 
 
 Professionally, I started my career at an aerospace company where I used NLP and Machine Learning (in enterprise Java!) to automatically detect chronic issues in airplanes. My second job was at a data analysis firm in the water space, where I built the tech stack (python, kubernetes) from the ground up including web crawlers, ML pipelines and web apps. 
 
-I took a change in 2017 and came to work for a consumer focused company with no machine learning bent, Wealthsimple! I spent my first year as 1/2 of the USA Engineering team, which was merged into the International Platform team. I was promoted to be the dev manager of the International Product team last year, and now I am the dev manager for W4A Product. 
+I took a change in 2017 and came to work for a consumer focused company with no machine learning bent, Wealthsimple! I spent my first year as 1/2 of the USA Engineering team, which was merged into the International Platform team. I was then promoted to be the dev manager of the International Product. Since then I have founded andd/or led a zumber of teams such as Wealthsimple for Advisors, US Back-office, WS Pay, CX-eng, Book of Record, and STAR. 
 
-Outside of tech jobs I spent some years working as a Research Assistant, Teaching Assistant and a Taekwondo 🦵 instructor! 
+Outside of tech jobs I spent some years working as a Research Assistant, Teaching Assistant and a Taekwondo 🥋 instructor! 
 
 ## My Role
 
@@ -62,7 +61,6 @@ I have RBF 😡, but I'm almost never angry 😊. My favourite part of this job 
 **You are really good at what you do**
 
 If you are working here, you are an extremely talented person. I'm not here to tell you what to do- you can do your job better than me. I trust you and won't ovverride your decisions without a good reason.
-
 
 **You will let me know as soon as you need help**
 
