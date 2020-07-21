@@ -36,7 +36,7 @@ I love to help people develop their strengths and find new ones. I think people 
 
 My special skill is *systemetizing best practices*. I'm a naturally lazy person who has trouble building new habits. To overcome that I became good at building lightweight processes that nudge or encourage people into doing things that are good for them without being burdensome. Extract, automate, habitualize. 
 
-I am a big believer in *disagree and commit*. I will debate loudly, and disagree freely with any one and any idea. One you have all the facts out you must come to a decisions and not rehash the arguments. Once the team or a leader comes to a decision you follow through without reservations.
+I am a big believer in *disagree and commit*. I will debate loudly, and disagree freely with anyone or any idea. Once you have all the facts out, you must come to a decision and not rehash the arguments. Once the team or a leader comes to a decision, you follow through without reservations.
 
 
 ## My Technical Philosophy
@@ -60,7 +60,7 @@ I have RBF 😡, but I'm almost never angry 😊. My favourite part of this job 
 
 **You are really good at what you do**
 
-If you are working here, you are an extremely talented person. I'm not here to tell you what to do- you can do your job better than me. I trust you and won't ovverride your decisions without a good reason.
+If you are working here, you are an extremely talented person. I'm not here to tell you what to do- you can do your job better than me. I trust you and won't override your decisions without a good reason.
 
 **You will let me know as soon as you need help**
 
